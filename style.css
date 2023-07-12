@@ -1,0 +1,106 @@
+.D{
+    text-align: right;
+    }
+.A{
+    background: url(echelle.jpg);
+    height: 600px;
+    
+}
+.G{
+margin-left: CENTER;
+    
+    
+}
+
+.mod{
+    position: absolute;
+    left: 550px;
+    
+}
+.C{
+    background-color: cornflowerblue;
+    width: 25%;
+    height: 20%;
+    
+}
+.V{
+    text-align: center;
+    
+}
+.k{
+    text-align: center;
+}
+.M{
+    text-align:center ;
+}
+.R{
+   font-size: 60px;
+   text-align: right; 
+}
+.X{
+    font-size: 60px;
+    text-align: left;
+    
+}
+.L{
+    font-size: 60px;
+}
+.head{
+    display: flex;
+}
+.bonjour{
+    display: flex;
+    }
+.bonsoir{
+    height: 800px;
+}
+.O{
+    text-align: center;
+}    
+
+
+    .Y{
+        height: 300PX;
+        /* padding-left: 18px; */
+    }
+    .Q{
+        font-size: 60PX;
+        text-align: center;
+        color: forestgreen;
+        }
+    .bon{
+        text-align: center;
+        background-color: dimgray;
+        height: 210px;
+    }
+    .GOL{
+        text-align: center; 
+        background-color: black;
+        height: 80px;
+        color: floralwhite;
+    }
+    .btn {
+        color: cyan;
+    }
+    .va{
+        text-align: center;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
